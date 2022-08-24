@@ -15,6 +15,7 @@ This project currently supports the following boards out of the box:
 
 - [nRF9160 Development Kit](https://www.nordicsemi.com/Products/Development-hardware/nrf9160-dk)
 - [nRF52840 Development Kit](https://www.nordicsemi.com/Products/Development-hardware/nrf52840-dk)
+- [nRF52DK_nRF52832](https://www.nordicsemi.com/Products/Development-hardware/nrf52-dk)
 
 ## Setup
 1. Install zephyr dependencies as described by the [Zephyr docs](https://docs.zephyrproject.org/2.6.0/getting_started/index.html#install-dependencies). For boards from Nordic Semiconductor you will also require [nRF Command Line Tools](https://www.nordicsemi.com/Products/Development-tools/nRF-Command-Line-Tools) for flashing the project.
