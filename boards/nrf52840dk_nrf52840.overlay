@@ -1,8 +1,5 @@
 
 &uart1 {
-    status="okay";
-    rx-pin = < 46 >;
-    tx-pin = < 47 >;
     my_device: my_uart_peripheral0 {
         compatible = "riphiphip,my_uart_peripheral";
         status="okay";
